@@ -1,3 +1,8 @@
+---
+title: Home page
+layout: default
+---
+
 An h1 header
 ============
 
